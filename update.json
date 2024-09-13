@@ -1,6 +1,6 @@
 {
   "version": "v3.6",
   "versionCode": 18,
-  "zipUrl": "https://raw.githubusercontent.com/endernon/mute-android-sounds/install.zip",
-  "changelog": "https://raw.githubusercontent.com/endernon/mute-android-sounds/changelog.md"
+  "zipUrl": "https://raw.githubusercontent.com/endernon/mute-android-sounds/master/install.zip",
+  "changelog": "https://raw.githubusercontent.com/endernon/mute-android-sounds/master/changelog.md"
 }
